@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>img/bot.gif</file>
+    <file>img/rob2.png</file>
+    <file>img/animation.gif</file>
+    <file>img/bot.gif</file>
+    <file>img/bot.gif</file>
+    <file>img/floor .gif</file>
+    <file>img/c3a8c07e7ad5f971cb146816a554c8a1.png</file>
+    <file>img/a4c5836f189b2f92dd746e0ccf7037da.png</file>
+    <file>img/exit - Copy.png</file>
+    <file>img/futuristic-black-background-round-holes-vector.jpg</file>
+    <file>img/images.jpg</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/animation.gif</file>
+    <file>img/T8bahf.gif</file>
+    <file>img/c3a8c07e7ad5f971cb146816a554c8a1.jpg</file>
+    <file>img/a4c5836f189b2f92dd746e0ccf7037da.png</file>
+    <file>img/diff.jpg</file>
+    <file>img/gify.gif</file>
+    <file>img/init.gif</file>
+    <file>img/tool1.jpg</file>
+    <file>img/unscreen.gif</file>
+    <file>img/c3a8c07e7.png</file>
+    <file>img/c3a8c07e7ad5f971cb146816a554c8a1.png</file>
+  </qresource>
+</RCC>
