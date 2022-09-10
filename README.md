@@ -15,19 +15,20 @@ statements/commands are analysed with the help of If-Else ladder to give an opti
 
 Presently, NOVA is being developed as an automation tool and virtual assistant.
 Among the Various roles played by NOVA are:
-o Search Engine with voice interactions
-o Reminder and To-Do application.
-o Vocabulary App to show meanings and correct spelling errors.
-o Weather Forecasting Application.
-o Google searching
-o Checking battery statues 
-o Music/ video playing 
-o Telling jokes 
-o Simple calculation 
-o Reading PDF as an audio book 
-o Taking notes 
-o Searching something on Wikipedia 
-o Internet speed testing 
+<ul>
+  <li>Search Engine with voice interactions</li>
+  <li>Reminder and To-Do application</li>
+<li>Vocabulary App to show meanings and correct spelling errors</li>
+<li>Weather Forecasting Application</li>
+<li>Google searching</li>
+<li>Checking battery statues</li> 
+<li>Music-video playing </li>
+<li>Telling jokes </li>
+<li>Simple calculation</li> 
+<li>Reading PDF as an audio book</li> 
+<li>Taking notes</li> 
+<li>Searching something on Wikipedia</li> 
+<li>Internet speed testing</li> 
 
 <strong>Snapshots of Input & Output</strong>
 ![image](https://user-images.githubusercontent.com/113223502/189467640-c7c04966-373d-4bc1-ba30-74365a63ade3.png)
